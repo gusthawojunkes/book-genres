@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="pt-br">
   <head>
+    <link rel="shortcut icon" href="../images/book-fill.svg" type="image/x-icon"></link>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
@@ -13,7 +14,9 @@
       <div><?php include "nav_lateral.php";?></div>
       <div id="conteudo">
         <div class="container">
-          <h1 class="display-4">Conteúdo</h1>
+          <h1 class="display-4">Bem-vindo&#40;a&#41;!</h1>
+          <p id="texto-principal">Esse trabalho foi realizado por Gusthawo Junkes e Nathan Antunes, para o trabalho da matéria de programação server-side envolvendo PHP e a utilização do método include.</p>
+          <p id="texto-principal">Por aqui você vai encontrar algumas explicações sobre os gêneros dos livros, fique a vontade para navegar por eles.</p>
         </div>
       </div>
     </div>

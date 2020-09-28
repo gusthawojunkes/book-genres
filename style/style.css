@@ -6,6 +6,7 @@ body{
     bottom: 0;
     flex-shrink: none;
     background-color: #434c70;
+    padding-bottom: 20px;
 }
 
 #left-nav{
@@ -29,4 +30,27 @@ body{
     padding-top: 35px;
     padding-bottom: 35px;
     text-align: center;
+}
+#texto-principal p{
+    text-align: left
+}
+.display-4{
+    padding-bottom: 35px;
+}
+
+/* Responsividade na página */
+
+@media (max-width: 800px){
+    #grid-padrao{
+        grid-template-columns: none;
+    }
+    #left-nav{
+        padding-top: 0px;
+        display: grid;
+        grid-column-gap: 0;
+        grid-template-columns: auto auto auto;
+    }
+    .list-group-item{
+        text-align: center;
+    }
 }
