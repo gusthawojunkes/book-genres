@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="../images/book-fill.svg" type="image/x-icon"></link>
