@@ -1,4 +1,5 @@
 <div id="left-nav" class="list-group">
+        <a class="list-group-item list-group-item-action" href="index.php">Início</a>
         <a class="list-group-item list-group-item-action" href="arquitetura.php">Arquitetura</a>
         <a class="list-group-item list-group-item-action" href="terror.php">Terror</a>
         <a class="list-group-item list-group-item-action" href="aventura.php">Aventura</a>
