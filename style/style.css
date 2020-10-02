@@ -37,7 +37,7 @@ body{
     text-align: center;
     padding-bottom: 35px;
 }
-#btn-home{
+#btn-home button {
     background:#434c70;
 }
 #btn-home a{
